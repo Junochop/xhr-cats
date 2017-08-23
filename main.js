@@ -1,4 +1,4 @@
-var catCrap = [
+var cats = [
 {name: "Fluffy", color: "Green", url: "http://static.boredpanda.com/blog/wp-content/uploads/2014/12/green-cat-varna-bulgaria-11.jpg"},
 {name: "Dom", color: "White", url: "http://www.petsworld.in/blog/wp-content/uploads/2014/09/Ragdoll1.jpg"},
 {name: "Keanu", color: "Red", url: "http://static2.businessinsider.com/image/57236227dd0895d0028b45e3/keanu-exploits-the-internets-obsession-with-cats--and-it-pretty-much-works.jpg"}
